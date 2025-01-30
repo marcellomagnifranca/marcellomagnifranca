@@ -1,2 +1,2 @@
-- 🎓 Estatística UFMG
+- 🎓 Statistics UFMG
 - 📊 Data Science
